@@ -1,0 +1,5 @@
+# All these files are autobuilded by a Doxygen build process and include some
+# some longe lines (as they inlcude long arrays) but they are not minimized
+# and can be mostly read rather easily.
+raritan-pdu-json-rpc-sdk source: source-is-missing html/menu.js *
+raritan-pdu-json-rpc-sdk source: source-is-missing html/search/*.js *

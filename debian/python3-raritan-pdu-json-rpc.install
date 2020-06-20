@@ -1,0 +1,7 @@
+luaservice_client.py            usr/share/doc/python3-raritan-pdu-json-rpc/examples
+px2_bulk_password_change.py     usr/share/doc/python3-raritan-pdu-json-rpc/examples
+px2_bulk_update.py              usr/share/doc/python3-raritan-pdu-json-rpc/examples
+px2_shell.py                    usr/share/doc/python3-raritan-pdu-json-rpc/examples
+python-idl-example.py           usr/share/doc/python3-raritan-pdu-json-rpc/examples
+python-json-rpc-demo.py         usr/share/doc/python3-raritan-pdu-json-rpc/examples
+sensor_log_receiving_service.py usr/share/doc/python3-raritan-pdu-json-rpc/examples

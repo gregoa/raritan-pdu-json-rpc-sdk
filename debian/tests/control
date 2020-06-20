@@ -1,0 +1,3 @@
+Tests: smoke
+Depends: python3-raritan-pdu-json-rpc
+Restrictions: allow-stderr
