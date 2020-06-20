@@ -1,0 +1,7 @@
+raritan-pdu-json-rpc-sdk (3.6.0+ds-1~exp1) unstable; urgency=medium
+
+  * [4368e8f] New upstream version 3.6.0+ds
+  * [a0e6ef1] Basic Debianization
+    (Closes: #??????)
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Sat, 20 Jun 2020 12:34:01 +0200
